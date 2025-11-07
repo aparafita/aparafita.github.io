@@ -18,8 +18,8 @@ Student Supervision
 
 Graduate Courses
 ======
-* “Machine Learning”, at KSchool, Spring 2018.
-* “Introduction to Statistics”, at KSchool, Fall 2017.
+* **Machine Learning**, at KSchool, Spring 2018.
+* **Introduction to Statistics**, at KSchool, Fall 2017.
 
 Undergraduate Courses
 ======

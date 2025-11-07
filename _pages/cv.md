@@ -46,7 +46,7 @@ Professional experience
   * Led the AI department, building ML solutions for business applications.
 
 * Jan. 2017 – Jun. 2017, Sep. 2019 – Jul. 2022: **Associate Professor**, at Universitat de Barcelona.
-  * Teaching in the “Databases”, “Introduction to Programming”, “Data Structures”, and “Computer Science New Applications” subjects.
+  * Teaching in the “Databases”, “Programming I”, “Data Structures”, and “Workshop on New Uses of Computers” subjects.
  
 * Jul. 2018 – Dec. 2018: **Data Scientist**, at Satellogic.
   * Development of predictive Deep Learning systems based on satellite imagery.

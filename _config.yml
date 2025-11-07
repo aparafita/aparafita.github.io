@@ -28,7 +28,7 @@ author:
   pronouns         : "he/him"
   bio              : "Senior Researcher working at the intersection of Causal Inference and Explainable AI"
   location         : "Barcelona, Spain"
-  employer         : "Barcelona Supercomputing Center"
+  employer         : "BSC - CNS"
   uri              : https://aparafita.github.io
   email            : "alvaro.parafita@bsc.es" 
 
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-5446-3612"
   semantic         : "https://www.semanticscholar.org/author/%C3%81lvaro-Parafita/2139750230"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 

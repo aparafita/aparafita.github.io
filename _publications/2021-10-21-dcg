@@ -1,0 +1,13 @@
+---
+title: "Deep Causal Graphs for Causal Inference, Black-Box Explainability and Fairness"
+collection: publications
+category: conferences
+permalink: /publication/2021-10-21-dcg
+excerpt: "Causal Estimation is usually tackled as a two-step process: identification, to transform a causal query into a statistical estimand, and modelling, to compute this estimand by using data. This reliance on the derived statistical estimand makes these methods ad hoc, used to answer one and only one query. We present an alternative framework called Deep Causal Graphs: with a single model, it answers any identifiable causal query without compromising on performance, thanks to the use of Normalizing Causal Flows, and outputs complex counterfactual distributions instead of single-point estimations of their expected value. We conclude with applications of the framework to Machine Learning Explainability and Fairness."
+date: 2021-10-21
+venue: '23rd International Conference of the Catalan Association for Artificial Intelligence (CCIA 2021)'
+paperurl: 'https://ebooks.iospress.nl/doi/10.3233/FAIA210162'
+citation: "PARAFITA, Á., & VITRIÀ, J. (2021, October). Deep Causal Graphs for Causal Inference, Black-Box Explainability and Fairness. In Artificial Intelligence Research and Development: Proceedings of the 23rd International Conference of the Catalan Association for Artificial Intelligence (Vol. 339, p. 415). IOS Press."
+---
+
+**Abstract**: Causal Estimation is usually tackled as a two-step process: identification, to transform a causal query into a statistical estimand, and modelling, to compute this estimand by using data. This reliance on the derived statistical estimand makes these methods ad hoc, used to answer one and only one query. We present an alternative framework called Deep Causal Graphs: with a single model, it answers any identifiable causal query without compromising on performance, thanks to the use of Normalizing Causal Flows, and outputs complex counterfactual distributions instead of single-point estimations of their expected value. We conclude with applications of the framework to Machine Learning Explainability and Fairness.

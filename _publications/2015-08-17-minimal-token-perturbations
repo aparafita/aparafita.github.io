@@ -1,0 +1,14 @@
+---
+title: "Probing the Embedding Space of Transformers via Minimal Token Perturbations"
+collection: publications
+category: conferences
+permalink: /publication/2015-08-17-minimal-token-perturbations
+excerpt: "Understanding how information propagates through Transformer models is a key challenge for interpretability. In this work, we study the effects of minimal token perturbations on the embedding space. In our experiments, we analyze the frequency of which tokens yield to minimal shifts, highlighting that rare tokens usually lead to larger shifts. Moreover, we study how perturbations propagate across layers, demonstrating that input information is increasingly intermixed in deeper layers. Our findings validate the common assumption that the first layers of a model can be used as proxies for model explanations. Overall, this work introduces the combination of token perturbations and shifts on the embedding space as a powerful tool for model interpretability."
+date: 2015-08-17
+venue: 'Workshop on Explainable Artificial Intelligence at IJCAI 2025'
+# slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
+paperurl: 'https://arxiv.org/pdf/2506.18011'
+citation: 'Conti, E., Astruc, A., Parafita, A., & Brando, A. (2025). Probing the Embedding Space of Transformers via Minimal Token Perturbations. In Workshop on Explainable Artificial Intelligence at IJCAI 2025. arXiv preprint arXiv:2506.18011.'
+---
+
+**Abstract**: Understanding how information propagates through Transformer models is a key challenge for interpretability. In this work, we study the effects of minimal token perturbations on the embedding space. In our experiments, we analyze the frequency of which tokens yield to minimal shifts, highlighting that rare tokens usually lead to larger shifts. Moreover, we study how perturbations propagate across layers, demonstrating that input information is increasingly intermixed in deeper layers. Our findings validate the common assumption that the first layers of a model can be used as proxies for model explanations. Overall, this work introduces the combination of token perturbations and shifts on the embedding space as a powerful tool for model interpretability.
